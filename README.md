@@ -1,6 +1,6 @@
-# Vue 3 CRUD Example
+# Vue 3 Admin Panel
 
-This is a simple crud example using Vue 3.
+This is a admin panel for recipe sharing platform
 
 ## Requirements
 
@@ -20,7 +20,7 @@ This is a simple crud example using Vue 3.
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/sachinlakshitha/vue-3-crud.git
+git clone [https://github.com/sachinlakshitha/vue-3-crud.git](https://github.com/sandaruanjana/online-recipe-sharing-platform-admin-panel.git)
 ```
 
 **2. Install the dependencies**
